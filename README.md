@@ -1,6 +1,6 @@
 # ProjetoAcademia \o/
 
-Aproveite e espero que goste do nosso projeto!
+    Aproveite e espero que goste do nosso projeto!
 
 # Tech stack
 
@@ -28,32 +28,32 @@ Aproveite e espero que goste do nosso projeto!
 
 ## Serviços usados
 
-* GitHub
+    - **GitHub
 
 ## Iniciando
 
-* Criação do seu banco de dados de acordo com o projeto.
- - requer a criação do banco de dados "academia", depois copiar tudo contido no DB script e executar ou importar o arquivo "seguradora.sql" contido na pasta principal.
+    * Criação do seu banco de dados de acordo com o projeto.
+    - requer a criação do banco de dados "academia", depois copiar tudo contido no DB script e executar ou importar o arquivo "seguradora.sql" contido na pasta principal.
 
 ## Características
 
-As principais características do aplicativo são:
- - Estamos a criar um site para uma Academia, para que esta possa gerir todos os registos e gerenciamento de todos os dados dos de clientes.
- - Sistema ágil e objetivo de gestão de seguros de veículos. <3
+    As principais características do aplicativo são:
+     - Estamos a criar um site para uma Academia, para que esta possa gerir todos os registos e gerenciamento de todos os dados dos de clientes.
+     - Sistema ágil e objetivo de gestão de seguros de veículos. <3
 
 ##Links
 
- - Repositório: https://github.com/GabrielGairoba/ProjetoAcademia
- - Se você tiver alguma dúvida sobre o código ou projeto, entre em contato com projetoportfolio01@gmail.com
+     - Repositório: https://github.com/GabrielGairoba/ProjetoAcademia
+     - Se você tiver alguma dúvida sobre o código ou projeto, entre em contato com projetoportfolio01@gmail.com
 
  ## Versionamento
 
- 1.0.0
+     1.0.0
 
  ## Autores
 
- * **Allan Borges Marques**
- * **Gabriel Gairoba**
+     * **Allan Borges Marques**
+     * **Gabriel Gairoba**
 
  Siga o github e junte-se a nós!
  Obrigado pela visita e boa codificação!
