@@ -7,15 +7,21 @@ Aproveite e espero que goste do nosso projeto!
 ### Tech Stack do Projeto Academia
 
 **Frontend:**
+
     - **Linguagem de Programação:** JavaScript
     - **Framework:** Angular
     - **Framework de Estilo:** Bootstrap
+    
 **Backend:**
+
     - **Linguagem de Programação:** Java
     - **Framework:** Spring Boot
+    
 **Banco de Dados:**
+
     - **Sistema de Gerenciamento de Banco de Dados (SGBD):** MySQL
 **Outras Ferramentas:**
+
     - **Controle de Versão:** Git
     - **Gerenciamento de Dependências:** Maven (para Java), npm (para Angular)
     - **Ambiente de Desenvolvimento Integrado (IDE):** IntelliJ IDEA ou Eclipse (para Java), Visual Studio Code (para Angular)
