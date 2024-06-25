@@ -39,7 +39,7 @@ Aproveite e espero que goste do nosso projeto!
 ## Iniciando
 
     * Criação do seu banco de dados de acordo com o projeto.
-    - requer a criação do banco de dados "academia", depois copiar tudo contido no DB script e executar ou importar o arquivo "seguradora.sql" contido na pasta principal.
+    - requer a criação do banco de dados "academia", depois copiar tudo contido no DB script e executar ou importar o arquivo "academia.sql" contido na pasta principal.
 
 ## Características
 
