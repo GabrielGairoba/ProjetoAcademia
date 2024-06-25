@@ -1,6 +1,12 @@
 # ProjetoAcademia \o/
+<div align="center">
+Aproveite e espero que goste do nosso projeto!
+</div>
+<br>
 
-    Aproveite e espero que goste do nosso projeto!
+<div align="center">
+<img src="https://github.com/GabrielGairoba/ProjetoAcademia/assets/90579145/9e978827-847b-4eb1-80c3-60661fd4337d" width="700px" />
+</div>
 
 # Tech stack
 
