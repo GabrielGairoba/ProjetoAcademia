@@ -45,7 +45,6 @@ Aproveite e espero que goste do nosso projeto!
 
     As principais características do aplicativo são:
      - Estamos a criar um site para uma Academia, para que esta possa gerir todos os registos e gerenciamento de todos os dados dos de clientes.
-     - Sistema ágil e objetivo de gestão de seguros de veículos. <3
 
 ## Links
 
